@@ -12,6 +12,10 @@
  5. 💬 Ask me about Html,CSS and JavaScript
  6. 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/talha-bayyar-12a2b7200/) || <bayyartalha@gmail.com>
 
+
+-![](https://komarev.com/ghpvc/?username=TalhaBayyar&blue)
+
+
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TalhaBayyar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
