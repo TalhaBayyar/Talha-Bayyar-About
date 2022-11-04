@@ -13,6 +13,6 @@
  6. 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/talha-bayyar-12a2b7200/) || <bayyartalha@gmail.com>
 
  
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TalhaBayyar&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaBayyar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
