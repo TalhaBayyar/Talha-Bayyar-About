@@ -23,6 +23,6 @@
  
  ## Github Stats 💻
  
-<img  src="https://github-readme-stats.vercel.app/api?username=TalhaBayyar&show_icons=true&theme=dark"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaBayyar&layout=compact&theme=dark"/>
+<img width="400px"  src="https://github-readme-stats.vercel.app/api?username=TalhaBayyar&show_icons=true&theme=dark"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaBayyar&layout=compact&theme=dark"/>
 
 
