@@ -23,5 +23,6 @@
  
  ## Github Stats 💻
  
-<img width="550px" color="orange" src="https://github-readme-stats.vercel.app/api?username=TalhaBayyar&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaBayyar"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TalhaBayyar&show_icons=true&theme=dark"/>
+
 
