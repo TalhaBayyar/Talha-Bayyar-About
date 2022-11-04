@@ -29,6 +29,5 @@
  
  
  ## Github Stats 💻
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaBayyar"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TalhaBayyar&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaBayyar"/><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TalhaBayyar&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
 
