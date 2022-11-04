@@ -12,6 +12,11 @@
  5. 💬 Ask me about Html,CSS and JavaScript
  6. 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/talha-bayyar-12a2b7200/) || <bayyartalha@gmail.com>
 
+## :trophy: GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meltem-fs&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+
+
  ## Languages & Tools 🛠️
  
 <p align="center">
